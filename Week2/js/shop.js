@@ -1,4 +1,4 @@
-// JavaScript Document
+ //JavaScript Document
 var customerName = "Victor";
 var price = 10;
 var quantity = 2;
